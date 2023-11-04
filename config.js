@@ -44,24 +44,24 @@ exports.idle = "data";
 
 /////////////////////////////////GIVEAWAYS
 exports.EmbedColour = "RANDOM";
-exports.giveawayManagerID = "850938117422448670";
+exports.giveawayManagerID = "520838996197113857";
 exports.giveawayRoleID = "869189567117406259";
 exports.giveawayMention = "false";
 exports.showMention = "false";
 exports.hostedBy = "false";
 
 /////////////////////////////////MISC
-exports.FeedbackChannel = "869168762694291507";
-exports.ReportChannel = "869285803266834524";
-exports.SuggestChannel = "869168786891218954";
+exports.FeedbackChannel = "850367977303441409";
+exports.ReportChannel = "850367977303441409";
+exports.SuggestChannel = "850367977303441409";
 
 /////////////////////////////////GUILD
-exports.system_server = "867728175681110026";
-exports.bot_join = "869809953307787304";
-exports.bot_leave = "869809953307787304";
+exports.system_server = "850367509323972658";
+exports.bot_join = "850367977303441409";
+exports.bot_leave = "850367977303441409";
 
 /////////////////////////////////DBL
-exports.POST_CHANNEL = "871742867507396608";
+exports.POST_CHANNEL = "850367977303441409";
 exports.TOP_GG = "https://top.gg/bot/868900571183185932";
 exports.VOTE_LINK = "https://top.gg/bot/868900571183185932/vote";
 exports.INVITE_LINK =
