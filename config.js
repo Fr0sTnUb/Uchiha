@@ -2,9 +2,9 @@
 exports.PREFIX = "!";
 exports.version = "v2.0";
 exports.supportserver = "https://dsc.gg/uchiha-support";
-exports.OWNER1 = "520838996197113857"; //Ashish
+exports.OWNER1 = "520838996197113857"; //Fr0sT
 exports.OWNER2 = "744578635780063293"; //Drix
-exports.OWNER3 = "1021829409705037855"; //ATHUL
+exports.OWNER3 = "1021829409705037855"; //Patel
 exports.banner =
   "https://cdn.discordapp.com/attachments/851119555287318588/872008371207831572/standard_4.gif";
 /////////////////////////////////EMBEDS
